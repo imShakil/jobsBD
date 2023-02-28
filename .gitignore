@@ -1,0 +1,5 @@
+./idea/
+./dashboard/__pycache__/*
+./env/
+
+
